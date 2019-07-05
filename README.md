@@ -1,0 +1,1 @@
+# kadai201907ogishima
