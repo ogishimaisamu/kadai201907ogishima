@@ -1,0 +1,56 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+.blog{
+  width:960px;
+  margin: 50px auto;
+}
+
+.rogo1 {
+  position: absolute;
+  background-color: orange;
+  color:white;
+  font-size: 20px;
+}
+.rogo2 {
+  position: absolute;
+  background-color: orange;
+  color:white;
+  font-size: 20px;
+}
+.rogo3 {
+  position: absolute;
+  background-color: orange;
+  color:white;
+  font-size: 20px;
+}
+
+.step{
+  width: 300px;
+  float: left;
+  border-style: solid;
+  border-width: 0.1px;
+  border-color: gray;
+}
+
+.step:nth-child(1){margin-right:30px;}
+.step:nth-child(2){margin-right:30px;}
+
+
+.image{
+  width: 280px;
+  margin: 10px 0 10px 10px;
+}
+
+h1{
+  width: 280px;
+  margin: 0 10px 10px 10px;
+}
+
+p{
+  width: 280px;
+  margin: 0 10px 10px 10px;
+}
